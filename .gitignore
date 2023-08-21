@@ -1,0 +1,5 @@
+data/
+logs/
+pretrained/
+*/__pycache__
+__pycache__
